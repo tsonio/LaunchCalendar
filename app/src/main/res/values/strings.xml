@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Launch Calendar</string>
+    <string name="title_home">Upcoming Launches</string>
+    <string name="title_dashboard">Past Launches</string>
+    <string name="title_notifications">Settings</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="dayLabel">Day</string>
+    <string name="monthLabel">Month</string>
+    <string name="yearLabel">Year</string>
+    <string name="submitButton">Submit</string>
+
+</resources>
